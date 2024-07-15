@@ -1,6 +1,6 @@
-# 🐞 Desafio-DIO-Pratica-de-Testes-Manuais-Funcionais
+# Desafio-DIO-Pratica-de-Testes-Manuais-Funcionais
 
-## 🐞 Apresentando o projeto 🐞
+## Apresentando o projeto 
 Bem-vindo! Este projeto tem como objetivo demonstrar e acompanhar o desenvolvimento de uma loja virtual chamada [SwagLabs Shopping](https://www.saucedemo.com/),  focada na qualidade e eficiência em metodologias ágeis.
 
 ## O que será demonstrado e acompanhado
