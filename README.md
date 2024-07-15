@@ -1,0 +1,1 @@
+# Desafio-DIO-Pratica-de-Testes-Manuais-Funcionais
